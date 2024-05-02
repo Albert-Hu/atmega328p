@@ -1,0 +1,3 @@
+[submodule "libs/mcucli"]
+	path = libs/mcucli
+	url = https://github.com/Albert-Hu/mcucli.git
